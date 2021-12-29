@@ -1,0 +1,2 @@
+on submit form -> JS executes func -> creates note object and pushes to notes, which will be redrawed on the page without additional render
+then func will send request to server with new note to stay consistent between browser and server
